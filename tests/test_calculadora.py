@@ -1,7 +1,7 @@
 from app.calculadora import sumar, restar
 
 def test_sumar():
-    assert sumar(2, 2) == 5
+    assert sumar(2, 3) == 5
     assert sumar(-1, 1) == 0
 
 def test_restar():
