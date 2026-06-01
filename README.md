@@ -20,4 +20,4 @@ Este proyecto consiste en una aplicación básica en Python que incluye pruebas 
 ### 1. Clonar el repositorio
 ```bash
 git clone [https://github.com/kamsantana/TAREA3.0.git](https://github.com/kamsantana/TAREA3.0.git)
-cd TAREA3.0
+cd TAREA3.0 

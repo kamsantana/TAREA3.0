@@ -12,4 +12,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY app/ ./app/
 
 # Comando por defecto para ejecutar la aplicación
-CMD ["python", "app/calculadora.py"]
+CMD ["python", "app/calculadora.py"] 
